@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "base"]
+	url = https://github.com/wangjieyu/base.git
+	fetch = +refs/heads/*:refs/remotes/base/*
+	pushurl = https://github.com/wangjieyu/base.git

@@ -1,0 +1,6 @@
+body,div,ol,ul,li,a,span,strong,var,em,dl,dt,dd,p,h1,h2,h3,img,input,table,tr,th,td{font-size:12px;font-family:宋体,Arial,tahoma,sans-serif;margin:0;padding:0;}
+a{text-decoration:none;cursor:pointer;font-style:normal;outline:none;}
+a img{border:none;float:left;}
+ul,ol{list-style:none;}
+em,var {font-style:normal;}
+.clear{clear:both;height:0px;overflow:hidden;}
